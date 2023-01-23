@@ -1,2 +1,2 @@
 def say_hi():
-    "Hi! from mylib2."
+    print("Hi! from mylib2.")
